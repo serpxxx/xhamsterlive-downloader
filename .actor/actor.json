@@ -5,6 +5,6 @@
   "input": "./INPUT_SCHEMA.json",
   "name": "xhamsterlive-downloader",
   "readme": "../ACTOR.md",
-  "title": "Xhamsterlive Downloader",
+  "title": "XHamsterLive Downloader Browser Extension",
   "version": "0.0"
 }
