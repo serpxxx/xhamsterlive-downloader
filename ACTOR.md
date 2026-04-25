@@ -1,4 +1,4 @@
-# XHamsterLive Downloader
+# XHamsterLive Downloader Browser Extension
 
 > Record XHamsterLive streams and download saved videos as MP4 files for offline viewing.
 
