@@ -1,10 +1,10 @@
 {
   "actorSpecification": 1,
   "buildTag": "latest",
-  "description": "Xhamsterlive Downloader listing and downloader workflow.",
+  "description": "XHamsterLive Downloader helps users save accessible videos for authorized offline viewing.",
   "input": "./INPUT_SCHEMA.json",
   "name": "xhamsterlive-downloader",
   "readme": "../ACTOR.md",
-  "title": "XHamsterLive Downloader",
+  "title": "XHamsterLive Video Downloader | Download XHamsterLive Videos",
   "version": "0.0"
 }
