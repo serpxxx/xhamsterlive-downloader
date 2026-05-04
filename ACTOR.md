@@ -1,6 +1,12 @@
-# XHamsterLive Downloader
+# XHamsterLive Video Downloader | How to Download XHamsterLive Videos
 
 > Record XHamsterLive streams and download saved videos as MP4 files for offline viewing.
+
+## Get it Here
+
+Get it here: https://serp.ly/xhamsterlive-video-downloader
+
+![XHamsterLive Downloader](https://raw.githubusercontent.com/serpxxx/xhamsterlive-downloader/main/assets/workflow-preview.webp)
 
 XHamsterLive Downloader is a browser extension built for users who want a cleaner way to keep XHamsterLive broadcasts and saved videos available outside the site. It detects supported video streams directly in the browser, lets you choose from available qualities, and saves finished captures as MP4 files that are easier to replay later.
 
@@ -9,11 +15,6 @@ XHamsterLive Downloader is a browser extension built for users who want a cleane
 - Preserve supported VR captures with playback-friendly metadata when available
 - Choose from the stream qualities exposed on the page
 - Save MP4 files for easier offline playback and archiving
-
-## Get it Here
-
-Get it here: https://serp.ly/xhamsterlive-video-downloader
-
 ## Table of Contents
 
 - [Why XHamsterLive Downloader](#why-xhamsterlive-downloader)
